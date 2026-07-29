@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Zunaira Shahbaz Banner" width="100%">
+  <img src="https://chatgpt.com/s/m_6a6a1f1cd86481919ba98409604b32b4" alt="Zunaira Shahbaz Banner" width="100%">
 </p>
 
 <div align="center">
