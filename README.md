@@ -7,7 +7,6 @@
 > *"Learning with curiosity. Building with purpose. Growing every day."*
 
 I'm passionate about technology and enjoy exploring the latest innovations in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
-
 I'm currently building a strong foundation in Python, Git, and problem-solving while preparing for a career in Data Science and Machine Learning
 
 Every repository represents a new challenge, a new lesson, and another step toward my goal of becoming a professional **Data Scientist by 2030**.
