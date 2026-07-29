@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Zunaira Shahbaz Banner" width="100%">
+</p>
+
 <div align="center">
 
 # Hi There! I'm Zunaira Shahbaz.
