@@ -20,7 +20,7 @@ This GitHub profile represents my journey—from writing my first Python program
 
 ## 🎯 My Goal
 
-My goal is to become a **Data Scientist by 2030**, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
+My goal is to become a **Data Scientist by 2029 **, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
 
 ---
 
