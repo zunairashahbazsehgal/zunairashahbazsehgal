@@ -1,17 +1,18 @@
-<h1 align="center">Hi there! 👋 I'm Zunaira Shahbaz</h1>
+<div align="center">
 
-<p align="center">
-Aspiring Data Scientist • Python Learner • Exploring AI & Machine Learning
-</p>
+# Hi There! I'm Zunaira Shahbaz.
 
-> **Learning with curiosity. Building with purpose. Growing every day.**
+### 🌱 Aspiring Data Scientist | Python Learner | Exploring AI & Machine Learning
 
-I'm passionate about technology and continuously learning new skills that prepare me for the future.
+> *"Learning with curiosity. Building with purpose. Growing every day."*
 
-This GitHub profile documents my journey from learning Python fundamentals to building real-world projects in Data Science, Machine Learning, and Artificial Intelligence.
+I'm passionate about technology and enjoy exploring the latest innovations in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
-Every repository represents a new challenge, a new lesson, and another step toward my goal of becoming a professional Data Scientist.
+This GitHub profile documents my journey as I build a strong foundation in **Python**, **Git**, and **problem-solving** before moving into **Data Science** and **Machine Learning**.
 
+Every repository represents a new challenge, a new lesson, and another step toward my goal of becoming a professional **Data Scientist by 2030**.
+
+</div>
 
 ---
 
