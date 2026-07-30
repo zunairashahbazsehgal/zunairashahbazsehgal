@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a6a1f1cd86481919ba98409604b32b4" alt="Zunaira Shahbaz Banner" width="100%">
+  <img src="Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" alt="Zunaira Shahbaz Banner">
 </p>
-
 <div align="center">
 
 # Hi There! I'm Zunaira Shahbaz.
