@@ -12,7 +12,7 @@
 I'm passionate about technology and enjoy exploring the latest innovations in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 I'm currently building a strong foundation in Python, Git, and problem-solving while preparing for a career in Data Science and Machine Learning
 
-Every repository represents a new challenge, a new lesson, and another step toward my goal of becoming a professional **Data Scientist by 2030**.
+My goal is to become an advanced Data Scientist by 2030, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
 
 </div>
 
@@ -32,16 +32,17 @@ This GitHub profile represents my journey—from writing my first Python program
 
 ## 🎯 My Goal
 
-My goal is to become a **Data Scientist by 2029 **, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
+My goal is to become an advanced Data Scientist by 2030, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
 
 ---
+ 
+##  📚 Currently Learning
 
-##  Currently Learning
-
-- Python
-- Git
-- GitHub
-- Visual Studio Code
+- Intermediate Python
+- SQL
+- NumPy
+- Pandas
+- Data Analysis
 
 ---
 
@@ -56,9 +57,9 @@ My goal is to become a **Data Scientist by 2029 **, continuously improving my pr
 
 ## 📂 Featured Projects
 
-Here you'll find the projects I build while learning.
+My projects and practical work as I progress from Python fundamentals toward Data Science and Machine Learning.
 
-Every repository represents a new concept, a new challenge, and another step forward in my journey.
+- [Python Beginner Tutorials](https://github.com/zunairashahbazsehgal/Python-Beginner-Tutorials) — Python fundamentals, practice exercises, and beginner projects.
 
 ---
 
