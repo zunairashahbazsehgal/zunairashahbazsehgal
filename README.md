@@ -38,11 +38,11 @@ My goal is to become a **Data Scientist by 2029 **, continuously improving my pr
 
 ##  Currently Learning
 
-• Intermediate Python
-• SQL
-• NumPy
-• Pandas
-• Data Analysis
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+
 ---
 
 ## 🛠️ Tools & Technologies
