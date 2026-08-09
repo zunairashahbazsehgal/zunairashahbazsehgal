@@ -5,99 +5,86 @@
 
 # Hi There! I'm Zunaira Shahbaz.
 
-### 🌱 Aspiring Data Scientist | Python Learner | Exploring AI & Machine Learning
+### Aspiring Data Scientist | Python Learner | Exploring AI & Machine Learning
 
 > *"Learning with curiosity. Building with purpose. Growing every day."*
 
-I'm passionate about technology and enjoy exploring the latest innovations in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
-I'm currently building a strong foundation in Python, Git, and problem-solving while preparing for a career in Data Science and Machine Learning
+I'm passionate about technology and interested in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
-My goal is to become an advanced Data Scientist by 2030, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
-
-</div>
+I'm currently building a strong foundation in **Python, Git, problem-solving, and programming fundamentals** while working toward a career in Data Science and Machine Learning.
 
 ---
 
-## 🌱 About Me
+## About Me
 
 Technology has always fascinated me, especially the rapid growth of Artificial Intelligence and Machine Learning.
 
-I chose Data Science because it combines everything I'm looking for in a career: continuous learning, problem-solving, innovation, and the opportunity to work with technologies that shape the future.
+I chose Data Science because it combines what I enjoy most: **continuous learning, problem-solving, analytical thinking, and innovation**.
 
-Beyond the technical side, I admire how Data Science develops analytical thinking, improves decision-making, and encourages learning from many different domains. I enjoy the idea of understanding complex problems through data and building solutions that can make a real impact.
-
-This GitHub profile represents my journey—from writing my first Python programs to becoming a professional Data Scientist.
+This GitHub profile documents my journey — from writing my first Python programs and building beginner projects to developing the skills needed to become a professional Data Scientist.
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
-My goal is to become an advanced Data Scientist by 2030, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
-
----
- 
-##  📚 Currently Learning
-
-- Intermediate Python
-- SQL
-- NumPy
-- Pandas
-- Data Analysis
+My goal is to become an **advanced Data Scientist by 2030**, continuously improving my programming, analytical thinking, and machine learning skills while building projects that solve real-world problems.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Currently Learning
 
 - Python
-- Git
-- GitHub
-- Visual Studio Code
+- Git & GitHub
+- Object-Oriented Programming
+- Problem Solving
+- Intermediate Python
+- Data Science fundamentals
 
 ---
 
-## 📂 Featured Projects
+## Learning Roadmap
+
+1. Python Fundamentals
+2. Object-Oriented Programming
+3. Intermediate Python
+4. SQL
+5. NumPy & Pandas
+6. Data Analysis
+7. Data Visualization
+8. Machine Learning
+9. Deep Learning
+10. Advanced Data Science & Machine Learning
+
+---
+
+## Featured Projects
 
 My projects and practical work as I progress from Python fundamentals toward Data Science and Machine Learning.
 
-- [Python Beginner Tutorials](https://github.com/zunairashahbazsehgal/Python-Beginner-Tutorials) — Python fundamentals, practice exercises, and beginner projects.
+- [Python Beginner Tutorials](YOUR_REPOSITORY_LINK) — Python fundamentals, practice exercises, and beginner projects.
+
+More projects will be added as I continue learning and building.
 
 ---
 
-## 🗺️ My Learning Roadmap
+## My Philosophy
 
-- ✅ Python Fundamentals
-- ✅ Object-Oriented Programming
-- ✅ Git & GitHub
-- 🔄 Intermediate Python
-- ⏳ NumPy
-- ⏳ Pandas
-- ⏳ SQL
-- ⏳ Data Visualisation
-- ⏳ Machine Learning
-- ⏳ Deep Learning
-
----
-
-## 💡 My Philosophy
-
-I believe consistency is more important than perfection.
+> **Consistency is more important than perfection.**
 
 Every project I build is an opportunity to learn something new, improve my skills, and become a better programmer than I was yesterday.
 
 ---
 
-## 🌟 What You Can Expect From My GitHub
+## What You Can Expect From My GitHub
 
-- Clean and well-organised projects
+- Clean and organised projects
 - Beginner-to-advanced learning progression
-- Continuous improvement
 - Practical Python applications
-- Future Data Science and Machine Learning projects
+- Continuous improvement
+- Data Science and Machine Learning projects
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- GitHub: https://github.com/zunairashahbazsehgal
-
-Thank you for visiting my profile! 🚀
+- GitHub: [zunairashahbazsehgal](YOUR_GITHUB_LINK)
