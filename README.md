@@ -36,13 +36,13 @@ My goal is to become a **Data Scientist by 2029 **, continuously improving my pr
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- Python
-- Git & GitHub
-- Object-Oriented Programming
-- Problem Solving
-
+• Intermediate Python
+• SQL
+• NumPy
+• Pandas
+• Data Analysis
 ---
 
 ## 🛠️ Tools & Technologies
@@ -62,7 +62,7 @@ Every repository represents a new concept, a new challenge, and another step for
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ My Learning Roadmap
 
 - ✅ Python Fundamentals
 - ✅ Object-Oriented Programming
