@@ -87,4 +87,4 @@ Every project I build is an opportunity to learn something new, improve my skill
 
 ## Connect With Me
 
-- GitHub: [zunairashahbazsehgal](YOUR_GITHUB_LINK)
+- GitHub: [zunairashahbazsehgal](https://github.com/zunairashahbazsehgal)
