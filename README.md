@@ -61,7 +61,7 @@ My goal is to become an **advanced Data Scientist by 2030**, continuously improv
 
 My projects and practical work as I progress from Python fundamentals toward Data Science and Machine Learning.
 
-- [Python Beginner Tutorials](YOUR_REPOSITORY_LINK) — Python fundamentals, practice exercises, and beginner projects.
+- [Python Beginner Tutorials](https://github.com/zunairashahbazsehgal/python-beginner-tutorials) — Python fundamentals, practice exercises, and beginner projects.
 
 More projects will be added as I continue learning and building.
 
@@ -87,4 +87,5 @@ Every project I build is an opportunity to learn something new, improve my skill
 
 ## Connect With Me
 
-- [Python Beginner Tutorials](https://github.com/zunairashahbazsehgal/python-beginner-tutorials) — Python fundamentals, practice exercises, and beginner projects.
+
+- GitHub: [zunairashahbazsehgal](https://github.com/zunairashahbazsehgal)
