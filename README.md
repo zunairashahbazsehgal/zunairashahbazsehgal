@@ -87,4 +87,4 @@ Every project I build is an opportunity to learn something new, improve my skill
 
 ## Connect With Me
 
-- GitHub: [zunairashahbazsehgal](https://github.com/zunairashahbazsehgal)
+- [Python Beginner Tutorials](https://github.com/zunairashahbazsehgal/python-beginner-tutorials) — Python fundamentals, practice exercises, and beginner projects.
